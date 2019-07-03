@@ -1,4 +1,4 @@
-package com.rubique.test;
+package com.demo.test;
 
 import java.util.HashSet;
 import java.util.LinkedList;
